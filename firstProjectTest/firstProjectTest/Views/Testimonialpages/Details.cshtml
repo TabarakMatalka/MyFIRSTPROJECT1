@@ -1,0 +1,75 @@
+﻿@model firstProjectTest.Models.Testimonialpage
+
+@{
+    
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Details</title>
+</head>
+<body>
+
+<div>
+    <h4>Testimonialpage</h4>
+    <hr />
+    <dl class="row">
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Name)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Name)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Status)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Status)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Title)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Title)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Content)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Content)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Image)
+        </dt>
+        <dd class = "col-sm-10">
+                <img src="@Url.Content("~/Images/"+Model.Image)" asp-append-version="true" width="100" height="100" />
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Reviewmessage)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Reviewmessage)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Homepage)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Homepage.PageId)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.User)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.User.Id)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-action="Edit" asp-route-id="@Model?.PageId">Edit</a> |
+    <a asp-action="Index">Back to List</a>
+</div>
+</body>
+</html>

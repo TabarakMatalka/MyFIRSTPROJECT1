@@ -1,0 +1,256 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = firstProjectTest
+build_property.RootNamespace = firstProjectTest
+build_property.ProjectDir = C:\Users\user\Desktop\firstProject\firstProjectTest\firstProjectTest\firstProjectTest\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\user\Desktop\firstProject\firstProjectTest\firstProjectTest\firstProjectTest
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/user/Desktop/firstProject/firstProjectTest/firstProjectTest/firstProjectTest/Views/Aboutuspages/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWJvdXR1c3BhZ2VzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Desktop/firstProject/firstProjectTest/firstProjectTest/firstProjectTest/Views/Aboutuspages/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWJvdXR1c3BhZ2VzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Desktop/firstProject/firstProjectTest/firstProjectTest/firstProjectTest/Views/Aboutuspages/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWJvdXR1c3BhZ2VzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Desktop/firstProject/firstProjectTest/firstProjectTest/firstProjectTest/Views/Aboutuspages/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWJvdXR1c3BhZ2VzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Desktop/firstProject/firstProjectTest/firstProjectTest/firstProjectTest/Views/Aboutuspages/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWJvdXR1c3BhZ2VzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Desktop/firstProject/firstProjectTest/firstProjectTest/firstProjectTest/Views/Banks/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmFua3NcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Desktop/firstProject/firstProjectTest/firstProjectTest/firstProjectTest/Views/Banks/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmFua3NcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Desktop/firstProject/firstProjectTest/firstProjectTest/firstProjectTest/Views/Banks/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmFua3NcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Desktop/firstProject/firstProjectTest/firstProjectTest/firstProjectTest/Views/Banks/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmFua3NcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Desktop/firstProject/firstProjectTest/firstProjectTest/firstProjectTest/Views/Banks/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmFua3NcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Desktop/firstProject/firstProjectTest/firstProjectTest/firstProjectTest/Views/Beneficiaries/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmVuZWZpY2lhcmllc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Desktop/firstProject/firstProjectTest/firstProjectTest/firstProjectTest/Views/Beneficiaries/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmVuZWZpY2lhcmllc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Desktop/firstProject/firstProjectTest/firstProjectTest/firstProjectTest/Views/Beneficiaries/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmVuZWZpY2lhcmllc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Desktop/firstProject/firstProjectTest/firstProjectTest/firstProjectTest/Views/Beneficiaries/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmVuZWZpY2lhcmllc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Desktop/firstProject/firstProjectTest/firstProjectTest/firstProjectTest/Views/Beneficiaries/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmVuZWZpY2lhcmllc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Desktop/firstProject/firstProjectTest/firstProjectTest/firstProjectTest/Views/Contactuspages/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udGFjdHVzcGFnZXNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Desktop/firstProject/firstProjectTest/firstProjectTest/firstProjectTest/Views/Contactuspages/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udGFjdHVzcGFnZXNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Desktop/firstProject/firstProjectTest/firstProjectTest/firstProjectTest/Views/Contactuspages/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udGFjdHVzcGFnZXNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Desktop/firstProject/firstProjectTest/firstProjectTest/firstProjectTest/Views/Contactuspages/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udGFjdHVzcGFnZXNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Desktop/firstProject/firstProjectTest/firstProjectTest/firstProjectTest/Views/Contactuspages/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udGFjdHVzcGFnZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Desktop/firstProject/firstProjectTest/firstProjectTest/firstProjectTest/Views/Homepages/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZXBhZ2VzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Desktop/firstProject/firstProjectTest/firstProjectTest/firstProjectTest/Views/Homepages/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZXBhZ2VzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Desktop/firstProject/firstProjectTest/firstProjectTest/firstProjectTest/Views/Homepages/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZXBhZ2VzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Desktop/firstProject/firstProjectTest/firstProjectTest/firstProjectTest/Views/Homepages/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZXBhZ2VzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Desktop/firstProject/firstProjectTest/firstProjectTest/firstProjectTest/Views/Homepages/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZXBhZ2VzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Desktop/firstProject/firstProjectTest/firstProjectTest/firstProjectTest/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Desktop/firstProject/firstProjectTest/firstProjectTest/firstProjectTest/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Desktop/firstProject/firstProjectTest/firstProjectTest/firstProjectTest/Views/LoginAndRegistr/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5BbmRSZWdpc3RyXExvZ2luLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Desktop/firstProject/firstProjectTest/firstProjectTest/firstProjectTest/Views/LoginAndRegistr/Register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5BbmRSZWdpc3RyXFJlZ2lzdGVyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Desktop/firstProject/firstProjectTest/firstProjectTest/firstProjectTest/Views/Payments/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGF5bWVudHNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Desktop/firstProject/firstProjectTest/firstProjectTest/firstProjectTest/Views/Payments/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGF5bWVudHNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Desktop/firstProject/firstProjectTest/firstProjectTest/firstProjectTest/Views/Payments/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGF5bWVudHNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Desktop/firstProject/firstProjectTest/firstProjectTest/firstProjectTest/Views/Payments/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGF5bWVudHNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Desktop/firstProject/firstProjectTest/firstProjectTest/firstProjectTest/Views/Payments/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGF5bWVudHNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Desktop/firstProject/firstProjectTest/firstProjectTest/firstProjectTest/Views/Roles/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9sZXNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Desktop/firstProject/firstProjectTest/firstProjectTest/firstProjectTest/Views/Roles/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9sZXNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Desktop/firstProject/firstProjectTest/firstProjectTest/firstProjectTest/Views/Roles/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9sZXNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Desktop/firstProject/firstProjectTest/firstProjectTest/firstProjectTest/Views/Roles/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9sZXNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Desktop/firstProject/firstProjectTest/firstProjectTest/firstProjectTest/Views/Roles/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9sZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Desktop/firstProject/firstProjectTest/firstProjectTest/firstProjectTest/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Desktop/firstProject/firstProjectTest/firstProjectTest/firstProjectTest/Views/Shared/Home_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEhvbWVfTGF5b3V0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Desktop/firstProject/firstProjectTest/firstProjectTest/firstProjectTest/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Desktop/firstProject/firstProjectTest/firstProjectTest/firstProjectTest/Views/Subscriptions/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3Vic2NyaXB0aW9uc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Desktop/firstProject/firstProjectTest/firstProjectTest/firstProjectTest/Views/Subscriptions/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3Vic2NyaXB0aW9uc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Desktop/firstProject/firstProjectTest/firstProjectTest/firstProjectTest/Views/Subscriptions/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3Vic2NyaXB0aW9uc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Desktop/firstProject/firstProjectTest/firstProjectTest/firstProjectTest/Views/Subscriptions/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3Vic2NyaXB0aW9uc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Desktop/firstProject/firstProjectTest/firstProjectTest/firstProjectTest/Views/Subscriptions/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3Vic2NyaXB0aW9uc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Desktop/firstProject/firstProjectTest/firstProjectTest/firstProjectTest/Views/Testimonialpages/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVzdGltb25pYWxwYWdlc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Desktop/firstProject/firstProjectTest/firstProjectTest/firstProjectTest/Views/Testimonialpages/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVzdGltb25pYWxwYWdlc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Desktop/firstProject/firstProjectTest/firstProjectTest/firstProjectTest/Views/Testimonialpages/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVzdGltb25pYWxwYWdlc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Desktop/firstProject/firstProjectTest/firstProjectTest/firstProjectTest/Views/Testimonialpages/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVzdGltb25pYWxwYWdlc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Desktop/firstProject/firstProjectTest/firstProjectTest/firstProjectTest/Views/Testimonialpages/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVzdGltb25pYWxwYWdlc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Desktop/firstProject/firstProjectTest/firstProjectTest/firstProjectTest/Views/Users/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlcnNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Desktop/firstProject/firstProjectTest/firstProjectTest/firstProjectTest/Views/Users/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlcnNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Desktop/firstProject/firstProjectTest/firstProjectTest/firstProjectTest/Views/Users/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlcnNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Desktop/firstProject/firstProjectTest/firstProjectTest/firstProjectTest/Views/Users/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlcnNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Desktop/firstProject/firstProjectTest/firstProjectTest/firstProjectTest/Views/Users/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlcnNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Desktop/firstProject/firstProjectTest/firstProjectTest/firstProjectTest/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Desktop/firstProject/firstProjectTest/firstProjectTest/firstProjectTest/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Desktop/firstProject/firstProjectTest/firstProjectTest/firstProjectTest/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-igfbe7rxv9

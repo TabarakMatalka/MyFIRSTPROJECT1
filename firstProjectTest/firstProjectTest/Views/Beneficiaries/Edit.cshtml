@@ -1,0 +1,70 @@
+﻿@model firstProjectTest.Models.Beneficiary
+
+@{
+    
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Edit</title>
+</head>
+<body>
+
+<h4>Beneficiary</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+            <form asp-action="Edit" enctype="multipart/form-data">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="Id" />
+            <div class="form-group">
+                <label asp-for="Name" class="control-label"></label>
+                <input asp-for="Name" class="form-control" />
+                <span asp-validation-for="Name" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Relationship" class="control-label"></label>
+                <input asp-for="Relationship" class="form-control" />
+                <span asp-validation-for="Relationship" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Age" class="control-label"></label>
+                <input asp-for="Age" class="form-control" />
+                <span asp-validation-for="Age" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Status" class="control-label"></label>
+                <input asp-for="Status" class="form-control" />
+                <span asp-validation-for="Status" class="text-danger"></span>
+            </div>
+            <div class="form-group" hidden>
+                <label asp-for="ProofImage" class="control-label"></label>
+                <input asp-for="ProofImage" class="form-control" />
+                <span asp-validation-for="ProofImage" class="text-danger"></span>
+            </div>
+                <div class="form-group">
+                    <label asp-for="ImageFile" class="control-label"></label>
+                    <input asp-for="ImageFile" class="form-control" />
+                    <span asp-validation-for="ImageFile" class="text-danger"></span>
+                </div>
+            <div class="form-group">
+                <label asp-for="SubscriptionId" class="control-label"></label>
+                <select asp-for="SubscriptionId" class="form-control" asp-items="ViewBag.SubscriptionId"></select>
+                <span asp-validation-for="SubscriptionId" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Save" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+</body>
+</html>
